@@ -1,4 +1,3 @@
-trojan://ZY07256934@closing-crow.rooster465.autos:443?type=tcp&security=tls&sni=closing-crow.rooster465.autos&fp=chrome&allowInsecure=1#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20AWS%20EC2%20(us-west-2)
 vless://464854c0-d879-433b-8ae2-28bfe19ed08e@nl2.fastdbn.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn-fastly-v6.deb.debian.org&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20Snel
 vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%8C%8D%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20Infomaniak%20Cloud
 vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=dropbox.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20Infomaniak%20Cloud
@@ -15,6 +14,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 ss://YWVzLTI1Ni1nY206UGlMcjEzcEU@120.233.125.33:30036#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20%F0%9F%8F%A3
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=sg.fasti.win&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20FDCservers.net
 vless://1401682c-0e47-4eb9-b5ab-98243655be9b@by.telega.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o&security=reality&sid=e31b66be0cd67c8b&sni=www.apple.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20Besthost
+trojan://ZY07256934@closing-crow.rooster465.autos:443?type=tcp&security=tls&sni=closing-crow.rooster465.autos&fp=chrome&allowInsecure=1#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20AWS%20EC2%20(us-west-2)
 ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:80#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Contabo%20GmbH
 ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:80#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Contabo%20Inc
 trojan://telegram-id-privatevpns@15.188.253.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20AWS%20EC2%20(eu-west-3)
