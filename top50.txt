@@ -1,4 +1,3 @@
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@193.233.48.173:443?encryption=none&type=tcp&security=none#%F0%9F%8C%8D%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20xorek.cloud
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.53.96:8443?&security=tls&fp=chrome&alpn=h3&sni=m1.mwu.de5.net&type=ws&headerType=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20Cloudflare%20WARP
@@ -12,6 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 trojan://BxceQaOe@16.163.155.36:8401?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%203NT%20SOLUTIONS%20LLP
 trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20AWS%20EC2%20(eu-central-1)
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20Baykov%20Ilya%20Sergeevich
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@193.233.48.173:443?encryption=none&type=tcp&security=none#%F0%9F%8C%8D%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20xorek.cloud
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6Im0uY25tamluLm5ldCIsInBvcnQiOiIxNjY0OCIsInR5cGUiOiJub25lIiwiaWQiOiIwNzRjM2VhOS1jOTc3LTQ3MGUtODgzNS1iYmExNDgzZDVjMDIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiZWE2YWZmMjFiNTUxNGYxN2EyNWI3ODY2ZDFmNjU5MTAubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Psychz%20Networks
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Sjc1NGVlNklUanlmRHlzaTc4dXFK@194.68.225.52:65232#%F0%9F%8C%8D%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20EDIS%20GmbH
 vless://aea708eb-d27f-453b-8eca-fb4f509c2562@cd4.baguvix.xyz:2053?allowInsecure=1&encryption=none&host=app3.phonepanel.ir&path=/ws&security=tls&sni=app3.phonepanel.ir&type=ws#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Hetzner
