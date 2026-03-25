@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg000021myh.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@namrcg002762ymv.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001296egb.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://YWVzLTI1Ni1nY206NjUwMjUzNjktNzIwYi00NzkyLTlmN2UtMTYzYjAzNzJhNGFk@us.academicbest.dpdns.org:7002#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20RackNerd%20LLC
@@ -17,6 +16,7 @@ vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@la1.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Proline%20IT%20LTD
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20%26quot%3BCloud%20Services%20Kazakhstan%26quot%3B%20LLP
 vless://c01733dd-3e58-4da9-910b-cdd4560295bc@45.84.0.217:2443?encryption=none&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=eh.vk.com&type=grpc#%F0%9F%8C%8D%20%F0%9F%87%B2%F0%9F%87%A9%20%7C%20WorkTitans%20B.V
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg000021myh.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001244wfw.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg0001797nk.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007147vhp.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
