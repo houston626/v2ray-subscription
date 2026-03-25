@@ -1,7 +1,7 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Telekom%20Deutschland%20GmbH
 vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20PENTECH%20BILISIM%20TEKNOLOJILERI%20SANAYI%20VE%20TICARET%20LIMITED%20SIRKETi
 vless://0ca20960-99aa-4c92-b44d-e08829ef1a69@193.23.211.125:30385?encryption=none&fp=chrome&pbk=BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw&security=reality&sid=6232ac20545869&sni=yahoo.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Senko%20Digital%20Ltd
 vless://816be889-2d68-4941-acf5-94662015811c@vpn5.osaku.ru:12436?encryption=none&fp=chrome&pbk=8hRsFW43gU0_uB-RhXw0N4Q8gXVlNjlIAWmFnltm6gg&security=reality&sid=41eccb&sni=yahoo.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Senko%20Digital%20LLC
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Telekom%20Deutschland%20GmbH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001213klw.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@namrcg002799rpd.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg000019wnj.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
