@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001296egb.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20WorkTitans%20B.V
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Microsoft%20Azure%20Cloud%20(uksouth)
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Telekom%20Deutschland%20GmbH
