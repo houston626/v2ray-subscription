@@ -1,11 +1,12 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@54.168.243.160:21413?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%8C%8D%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20Hong%20Kong%20Telecommunications%20(HKT)%20Limited
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Telekom%20Deutschland%20GmbH
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Microsoft%20Azure%20Cloud%20(uksouth)
 trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20AWS%20EC2%20(eu-west-3)
 vless://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@nl.vpnhi.ru:443?allowInsecure=1&encryption=none&host=nl.vpnhi.ru&path=%2Fvpnws&security=tls&sni=nl.vpnhi.ru&type=ws#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9F%8F%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDJYOXA5Q3FuM0ljNGw2UHlKTUY4@185.223.82.82:10021#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%F0%9F%8F%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%F0%9F%8C%8D%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20Davide%20Silvetti%20trading%20as%20%26%2339%3BAssociation%20Osservatorio%20Nessuno%20ODV%26%2339%3B
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@54.168.243.160:21413?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%8C%8D%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20Hong%20Kong%20Telecommunications%20(HKT)%20Limited
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007134n4g.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NmZkMjkxMC04ZjJkLTRmMGYtODgzYS04ZGEyMjZmNTIwMDA@n8mrcg00602689c.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011499tl.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
@@ -66,7 +67,6 @@ trojan://WF42809561@premium-lab.rooster465.autos:443?allowInsecure=0&sni=premium
 trojan://telegram-id-privatevpns@52.47.80.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20AWS%20EC2%20(eu-west-3)
 trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=0#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20G-Core%20Labs%20S.A
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1LUiIsImFkZCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODFkNWNhYzQtZDAzOS00ODc0LTlhMjAtYzM5MWY1ODAwMTJkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#%F0%9F%8C%8D%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20Oracle%20Cloud%20Infrastructure%20(ap-chuncheon-1)
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011778me.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@namrcg002771r35.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001121x36.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
