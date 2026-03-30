@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Cloudflare%20WARP
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Telekom%20Deutschland%20GmbH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmMyY2U1Ny1hZWQzLTRmOGEtOWJhNy00ZWNiM2EyZjlmYTE@cm1.kaochangcn.org:36521#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Linode%2C%20LLC
@@ -7,7 +6,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzW29wZW5wcm94eWxpc3Qu
 trojan://telegram-id-privatevpns@51.44.121.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20AWS%20EC2%20(eu-west-3)
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1DQSIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg5NyIsInR5cGUiOiJub25lIiwiaWQiOiI2ZDVkMWQ4My1iMDRlLTRjNWQtODczZS1iMDI3ZDU5ZTBiMzYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiYmFpZHUuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#%F0%9F%8C%8D%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20OVH%20Hosting%2C%20Inc.
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.105.161.54:12345?&security=tls&fp=random&alpn=http/1.1&sni=snippet.chinat.eu.cc&type=ws&headerType=none&host=snippet.chinat.eu.cc&path=%2Fdanfeng#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Cloudflare%20WARP
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Vodafone%20GmbH
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%F0%9F%8C%8D%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20Oracle%20Cloud%20Infrastructure%20(sa-saopaulo-1)
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20Kornet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Cloudflare%20WARP
@@ -197,4 +198,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003507ck6.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034305hx.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 trojan://WF42809561@model-stingray.crayfish192.xyz:443?security=tls&sni=model-stingray.crayfish192.xyz#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20GCL%20Customer%20FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005958sxh.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
