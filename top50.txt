@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Vodafone%20GmbH
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA
 vless://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:43229?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JzUmS6a7nFt54YhvIe-KE31-W8WWJxcgQJt_q_-HbSQ&security=reality&sid=e0a48d60&sni=apple.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20Windstream%20Communications%20LLC
 vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@tur-z3.duckdns.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WeK-Iwzw_uTQemxacLNRRXCi39aGzEMLAimBIzYxPSA&security=reality&sid=97417a36e3bca3ee&sni=tur-z3.duckdns.org&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20WorkTitans%20B.V
