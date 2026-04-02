@@ -1,7 +1,7 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 trojan://telegram-id-privatevpns@13.39.95.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20AWS%20EC2%20(eu-west-3)
 vless://cec4d434-0578-483e-a5cb-d6a11ea67e27@95.85.248.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=odxN6TcYRwMQR27l_RA_6NOnRTuoeP_A7GphX5J5CSQ&security=reality&sid=ae40ad2fdcdb2176&sni=www.oracle.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%201Cent%20Host
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Vodafone%20GmbH
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.77.162:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8iEloJudtgXA0pTiSgFnq0quKAVHjnqm9r3TClydlCM&security=reality&sid=0bffe935818e6964&sni=sun6-21.userapi.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9F%8F%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Microsoft%20Azure%20Cloud%20(uksouth)
 vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-uk01.gw-vpn.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j5sQbSLF4SeU7XHU27W56ZuveT-O6HwxX2wi5neM4UM&security=reality&sid=abcdef00&sni=plus.im&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Dgtl%20Tech%20UK%20LLP
