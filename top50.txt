@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Vodafone%20GmbH
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Vodafone%20GmbH
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1HQiIsImFkZCI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA2MzJiZmE5LWIxNWMtNDI1Ny04Yzc1LTMyZjdjMGM1M2IyNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjFcL2dyYXBocWwiLCJob3N0IjoiY2cxYzEyLndhaW1hb2pkLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Baxet%20Group%20Inc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005938lsz.cybervena.com:50099#%F0%9F%8C%8D%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20Chunghwa%20Telecom%20Co.%20Ltd.
 trojan://telegram-id-privatevpns@13.39.95.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%8D%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20AWS%20EC2%20(eu-west-3)
@@ -8,6 +8,7 @@ vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.77.162:443?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Microsoft%20Azure%20Cloud%20(uksouth)
 vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-uk01.gw-vpn.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j5sQbSLF4SeU7XHU27W56ZuveT-O6HwxX2wi5neM4UM&security=reality&sid=abcdef00&sni=plus.im&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Dgtl%20Tech%20UK%20LLP
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@nl10.404-it.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VFzQg-tlMPhO7wBJNQJD8M82zPxnCTy_Y2oHWgsFbzQ&security=reality&sid=10402c47a7e61563&sni=www.google.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%F0%9F%8F%A3
+vless://a91b9d7f-eca5-43a5-9524-2201817225d6@45.140.167.229:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4UNvbZjAgdHgE666FNCcYos7-9CyJG0vgCdDKmg6uFw&security=reality&sid=4ab2d871&sni=google.com&type=tcp#%F0%9F%8C%8D%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20WorkTitans%20B.V
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%8C%8D%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20E-Plus%20Mobilfunk%20GmbH%20%26%20Co.%20KG
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20InterLIR%20LLC
 trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20Scaleway
@@ -197,4 +198,3 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%8C%8D%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20T-Mobile%20USA%2C%20Inc.
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#%F0%9F%8C%8D%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20WorkTitans%20B.V
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%8C%8D%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20CDN77%20Amsterdam
-trojan://WF42809561@premium-lab.rooster465.autos:443?allowInsecure=0&sni=premium-lab.rooster465.autos#%F0%9F%8C%8D%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20GCL
